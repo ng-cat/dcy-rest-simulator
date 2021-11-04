@@ -22,7 +22,7 @@ var fs = require('fs');
         var data = JSON.parse(mock);
         setTimeout(() => {
             res.json(data);
-        }, 5000);
+        }, 10000);
     });
 
 module.exports = routerServer;
