@@ -35,4 +35,13 @@ var fs = require('fs');
         }, 0);
     });
 
+    routerServer.get('/Orders', (req,res)=>{
+        var mock = fs.readFileSync('./scenarios/orders.json');
+        var data = JSON.parse(mock);
+        setTimeout(() => {
+            res.json(data);
+        }, 10000);
+    });
+
+
 module.exports = routerServer;
