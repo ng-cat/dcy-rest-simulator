@@ -6,7 +6,6 @@ var cors = require('cors');
 var bodyParser = require('body-parser')
 var fs = require('fs');
 
-
     routerServer.use(cors());
     routerServer.use( bodyParser.json() );
     routerServer.use(bodyParser.urlencoded({
