@@ -94,7 +94,7 @@
                 "column":1,
                 "type":"R",
                 "subType":"D",
-                "value":"1https://www.google.com",
+                "value":"https://www.google.com",
                 "idValue":"https://www.google.com",
                 "rowSpan":1
              },
@@ -102,7 +102,7 @@
                 "column":2,
                 "type":"R",
                 "subType":"D",
-                "value":"1https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+                "value":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
                 "idValue":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
                 "rowSpan":1
              },

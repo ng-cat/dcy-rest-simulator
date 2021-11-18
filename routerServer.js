@@ -22,7 +22,17 @@ var fs = require('fs');
         var data = JSON.parse(mock);
         setTimeout(() => {
             res.json(data);
-        }, 10000);
+        }, 5000);
+    });
+
+    routerServer.get('/api/rest/application/:model/report/:report', (req,res)=>{
+        let model = req.params.model;
+        let report = req.params.report;
+        var mock = fs.readFileSync('./scenarios/' + model + '-' + report + '.json');
+        var data = JSON.parse(mock);
+        setTimeout(() => {
+            res.json(data);
+        }, 0);
     });
 
 module.exports = routerServer;
