@@ -19,5 +19,5 @@ server.appServer.listen(server.portServer, () => {
 var httpServer = http.createServer(server.appServer);
 var httpsServer = https.createServer(credentials, server.appServer);
 
-httpServer.listen(8080);
+httpServer.listen(server.portServer);
 httpsServer.listen(8443);
