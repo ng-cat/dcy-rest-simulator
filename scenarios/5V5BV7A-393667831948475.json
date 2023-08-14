@@ -1,0 +1,4423 @@
+{
+    "id": "393667831948475",
+    "description": "",
+    "name": "Child grid",
+    "writable": false,
+    "rows": [
+        {
+            "row": 0,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "MONTH",
+                    "idValue": "MONTH",
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "YEAR",
+                    "idValue": "YEAR",
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 1,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "NA",
+                    "idValue": "0",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "NA",
+                    "idValue": "0",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 2,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  1",
+                    "idValue": "201801",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 3,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  2",
+                    "idValue": "201802",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 4,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  3",
+                    "idValue": "201803",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 5,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  4",
+                    "idValue": "201804",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 6,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  5",
+                    "idValue": "201805",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 7,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  6",
+                    "idValue": "201806",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 8,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  7",
+                    "idValue": "201807",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 9,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  8",
+                    "idValue": "201808",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 10,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  9",
+                    "idValue": "201809",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 11,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  10",
+                    "idValue": "201810",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 12,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  11",
+                    "idValue": "201811",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 13,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2018  12",
+                    "idValue": "201812",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2018",
+                    "idValue": "2018",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 14,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  1",
+                    "idValue": "201901",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 15,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  2",
+                    "idValue": "201902",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 16,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  3",
+                    "idValue": "201903",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 17,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  4",
+                    "idValue": "201904",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 18,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  5",
+                    "idValue": "201905",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 19,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  6",
+                    "idValue": "201906",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 20,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  7",
+                    "idValue": "201907",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 21,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  8",
+                    "idValue": "201908",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 22,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  9",
+                    "idValue": "201909",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 23,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  10",
+                    "idValue": "201910",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 24,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  11",
+                    "idValue": "201911",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 25,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019  12",
+                    "idValue": "201912",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 26,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  1",
+                    "idValue": "202001",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 27,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  2",
+                    "idValue": "202002",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 28,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  3",
+                    "idValue": "202003",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 29,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  4",
+                    "idValue": "202004",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 30,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  5",
+                    "idValue": "202005",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 31,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  6",
+                    "idValue": "202006",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 32,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  7",
+                    "idValue": "202007",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 33,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  8",
+                    "idValue": "202008",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 34,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  9",
+                    "idValue": "202009",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 35,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  10",
+                    "idValue": "202010",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 36,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  11",
+                    "idValue": "202011",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 37,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020  12",
+                    "idValue": "202012",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 38,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  1",
+                    "idValue": "202101",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 39,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  2",
+                    "idValue": "202102",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 40,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  3",
+                    "idValue": "202103",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 41,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  4",
+                    "idValue": "202104",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 42,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  5",
+                    "idValue": "202105",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 43,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  6",
+                    "idValue": "202106",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 44,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  7",
+                    "idValue": "202107",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 45,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  8",
+                    "idValue": "202108",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 46,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  9",
+                    "idValue": "202109",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 47,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  10",
+                    "idValue": "202110",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 48,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  11",
+                    "idValue": "202111",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 49,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021  12",
+                    "idValue": "202112",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 50,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  1",
+                    "idValue": "202201",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 51,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  2",
+                    "idValue": "202202",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 52,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  3",
+                    "idValue": "202203",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 53,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  4",
+                    "idValue": "202204",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 54,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  5",
+                    "idValue": "202205",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 55,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  6",
+                    "idValue": "202206",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 56,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  7",
+                    "idValue": "202207",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 57,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  8",
+                    "idValue": "202208",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 58,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  9",
+                    "idValue": "202209",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 59,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  10",
+                    "idValue": "202210",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 60,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  11",
+                    "idValue": "202211",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 61,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2022  12",
+                    "idValue": "202212",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2022",
+                    "idValue": "2022",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 62,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  1",
+                    "idValue": "202301",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 63,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  2",
+                    "idValue": "202302",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 64,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  3",
+                    "idValue": "202303",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 65,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  4",
+                    "idValue": "202304",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 66,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  5",
+                    "idValue": "202305",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 67,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  6",
+                    "idValue": "202306",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 68,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  7",
+                    "idValue": "202307",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 69,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  8",
+                    "idValue": "202308",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 70,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  9",
+                    "idValue": "202309",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 71,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  10",
+                    "idValue": "202310",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 72,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  11",
+                    "idValue": "202311",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 73,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2023  12",
+                    "idValue": "202312",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2023",
+                    "idValue": "2023",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 74,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  1",
+                    "idValue": "202401",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 75,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  2",
+                    "idValue": "202402",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 76,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  3",
+                    "idValue": "202403",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 77,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  4",
+                    "idValue": "202404",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 78,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  5",
+                    "idValue": "202405",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 79,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  6",
+                    "idValue": "202406",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 80,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  7",
+                    "idValue": "202407",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 81,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  8",
+                    "idValue": "202408",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 82,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  9",
+                    "idValue": "202409",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 83,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  10",
+                    "idValue": "202410",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 84,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  11",
+                    "idValue": "202411",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 85,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [
+                {
+                    "index": 1,
+                    "openNewWindow": true,
+                    "openFullScreen": false,
+                    "openInModalWindow": true,
+                    "repaintOpener": false,
+                    "title": "DT Target",
+                    "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+                    "imageDesc": "DT Target",
+                    "width": 800,
+                    "height": 600,
+                    "objectId": "54633901147526",
+                    "reportViewId": "365667865298797CTXSEP393667831948475",
+                    "imageWidth": 0,
+                    "imageHeight": 0,
+                    "showOn": "Context menu,Double click,Command column",
+                    "openActionType": "Dashboard Page",
+                    "enableClose": true,
+                    "enableEscToClose": true,
+                    "enableClickToClose": false,
+                    "enableFullScreen": true
+                }
+            ],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2024  12",
+                    "idValue": "202412",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2024",
+                    "idValue": "2024",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        }
+    ],
+    "drillThrough": [
+        {
+            "index": 1,
+            "openNewWindow": true,
+            "openFullScreen": false,
+            "openInModalWindow": true,
+            "repaintOpener": false,
+            "title": "DT Target",
+            "image": "/content/dcy/img/T262667840683668T/img/ico/arrows/dt_arrowDx.png",
+            "imageDesc": "DT Target",
+            "width": 800,
+            "height": 600,
+            "objectId": "54633901147526",
+            "reportViewId": "365667865298797CTXSEP393667831948475",
+            "imageWidth": 0,
+            "imageHeight": 0,
+            "showOn": "Top",
+            "openActionType": "Dashboard Page",
+            "enableClose": true,
+            "enableEscToClose": true,
+            "enableClickToClose": false,
+            "enableFullScreen": true
+        }
+    ],
+    "properties": {
+        "reportColsDefinition": "[{\"coldef_MONTH\":[{\"reportColName\":\"MONTH\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"393667831948475\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"0\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_YEAR\":[{\"reportColName\":\"YEAR\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"393667831948475\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"1\"},{\"reportColsAutoIncrement\":\"0\"}]}]",
+        "reportEditingGrants": "ENABLE:ALL;",
+        "data-deletion-message": "",
+        "task-enabled": "false",
+        "discussion-enabled": "false"
+    }
+}

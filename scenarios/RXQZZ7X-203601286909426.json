@@ -1,1007 +1,1281 @@
 {
-    "id":"203601286909426",
-    "description":"",
-    "name":"Cri_Grid",
-    "rows":[
-       {
-          "row":0,
-          "cells":[
-             {
-                "column":0,
-                "type":"H",
-                "subType":"He",
-                "value":"USER_ID",
-                "idValue":"USER_ID$JPqFP"
-             },
-             {
-                "column":1,
-                "type":"H",
-                "subType":"He",
-                "value":"USERNAME",
-                "idValue":"USERNAME$JPqFP"
-             },
-             {
-                "column":2,
-                "type":"H",
-                "subType":"He",
-                "value":"DISPLAY_NAME",
-                "idValue":"DISPLAY_NAME$JPqFP"
-             },
-             {
-                "column":3,
-                "type":"H",
-                "subType":"He",
-                "value":"BIRTH_DATE",
-                "idValue":"BIRTH_DATE$JPqFP"
-             },
-             {
-                "column":4,
-                "type":"H",
-                "subType":"He",
-                "value":"FRIEND_OF",
-                "idValue":"FRIEND_OF$JPqFP"
-             },
-             {
-                "column":5,
-                "type":"H",
-                "subType":"He",
-                "value":"SON_OF_ID",
-                "idValue":"SON_OF_ID$JPqFP"
-             },
-             {
-                "column":6,
-                "type":"H",
-                "subType":"He",
-                "value":"SON_OF_DS",
-                "idValue":"SON_OF_DS$JPqFP"
-             },
-             {
-                "column":7,
-                "type":"H",
-                "subType":"He",
-                "value":"COWORKER_OF",
-                "idValue":"COWORKER_OF$JPqFP"
-             },
-             {
-                "column":8,
-                "type":"H",
-                "subType":"He",
-                "value":"IS_IN_OFFICE",
-                "idValue":"IS_IN_OFFICE$JPqFP"
-             },
-             {
-                "column":9,
-                "type":"C",
-                "subType":"E",
-                "value":"",
-                "idValue":"",
-                "colSpan":1
-             }
-          ]
-       },
-       {
-          "row":1,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"1",
-                "idValue":"1",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"https://www.google.com",
-                "idValue":"https://www.google.com",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "idValue":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2020-10-04 00:00:00.000",
-                "idValue":"2020-10-04 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"26",
-                "idValue":"26",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"23",
-                "idValue":"23",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":"pippO  a",
-                "idValue":"pippO  a",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":"aaa",
-                "idValue":"aaa",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"true",
-                "idValue":"true",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       },
-       {
-          "row":2,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"3",
-                "idValue":"3",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"pluto",
-                "idValue":"pluto",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"pippO  a",
-                "idValue":"pippO  a",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2020-10-03 00:00:00.000",
-                "idValue":"2020-10-03 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"6",
-                "idValue":"6",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"25",
-                "idValue":"25",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":"ciccio",
-                "idValue":"ciccio",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "idValue":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"true",
-                "idValue":"true",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       },
-       {
-          "row":3,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"4",
-                "idValue":"4",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"paperinoss",
-                "idValue":"paperinoss",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"paperinos",
-                "idValue":"paperinos",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2020-09-27 00:00:00.000",
-                "idValue":"2020-09-27 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"35",
-                "idValue":"35",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"1",
-                "idValue":"1",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "idValue":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "idValue":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"true",
-                "idValue":"true",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       },
-       {
-          "row":4,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"6",
-                "idValue":"6",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"topolino",
-                "idValue":"topolino",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"topolino",
-                "idValue":"topolino",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2021-01-01 00:00:00.000",
-                "idValue":"2021-01-01 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"1",
-                "idValue":"1",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"3",
-                "idValue":"3",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":"pippO  a",
-                "idValue":"pippO  a",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":"aaaa",
-                "idValue":"aaaa",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"true",
-                "idValue":"true",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       },
-       {
-          "row":5,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"18",
-                "idValue":"18",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"pippo2",
-                "idValue":"pippo2",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"qqq",
-                "idValue":"qqq",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2021-04-07 00:00:00.000",
-                "idValue":"2021-04-07 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"25",
-                "idValue":"25",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"25",
-                "idValue":"25",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":"ciccio",
-                "idValue":"ciccio",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":"ciccio",
-                "idValue":"ciccio",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"false",
-                "idValue":"false",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       },
-       {
-          "row":6,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"25",
-                "idValue":"25",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"uciccio",
-                "idValue":"uciccio",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"ciccio",
-                "idValue":"ciccio",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2021-04-09 00:00:00.000",
-                "idValue":"2021-04-09 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"23",
-                "idValue":"23",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"23",
-                "idValue":"23",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":"eee",
-                "idValue":"eee",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":"displayName user",
-                "idValue":"displayName user",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"true",
-                "idValue":"true",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       },
-       {
-          "row":7,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"26",
-                "idValue":"26",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"123456",
-                "idValue":"123456",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"5453",
-                "idValue":"5453",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2021-04-15 00:00:00.000",
-                "idValue":"2021-04-15 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"26",
-                "idValue":"26",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"25",
-                "idValue":"25",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":"ciccio",
-                "idValue":"ciccio",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":"5453",
-                "idValue":"5453",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"true",
-                "idValue":"true",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       },
-       {
-          "row":8,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"29",
-                "idValue":"29",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"pippo3",
-                "idValue":"pippo3",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"xxx",
-                "idValue":"xxx",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2021-05-06 00:00:00.000",
-                "idValue":"2021-05-06 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"4",
-                "idValue":"4",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"12",
-                "idValue":"12",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":"",
-                "idValue":"",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":"ciccio",
-                "idValue":"ciccio",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"true",
-                "idValue":"true",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       },
-       {
-          "row":9,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"30",
-                "idValue":"30",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"pippo4",
-                "idValue":"pippo4",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"pippo4",
-                "idValue":"pippo4",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2021-05-05 00:00:00.000",
-                "idValue":"2021-05-05 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"26",
-                "idValue":"26",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"26",
-                "idValue":"26",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":" 5453",
-                "idValue":" 5453",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":" 5453",
-                "idValue":" 5453",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"true",
-                "idValue":"true",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       },
-       {
-          "row":10,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"32",
-                "idValue":"32",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"https://www.google.it",
-                "idValue":"https://www.google.it",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "idValue":"https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2020-10-04 00:00:00.000",
-                "idValue":"2020-10-04 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"8",
-                "idValue":"8",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"3",
-                "idValue":"3",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":" pippO  a",
-                "idValue":" pippO  a",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":" displayName user",
-                "idValue":" displayName user",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"true",
-                "idValue":"true",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       },
-       {
-          "row":11,
-          "cells":[
-             {
-                "column":0,
-                "type":"R",
-                "subType":"D",
-                "value":"35",
-                "idValue":"35",
-                "rowSpan":1
-             },
-             {
-                "column":1,
-                "type":"R",
-                "subType":"D",
-                "value":"aaa",
-                "idValue":"aaa",
-                "rowSpan":1
-             },
-             {
-                "column":2,
-                "type":"R",
-                "subType":"D",
-                "value":"aaa",
-                "idValue":"aaa",
-                "rowSpan":1
-             },
-             {
-                "column":3,
-                "type":"R",
-                "subType":"D",
-                "value":"2021-10-12 00:00:00.000",
-                "idValue":"2021-10-12 00:00:00.000",
-                "rowSpan":1
-             },
-             {
-                "column":4,
-                "type":"R",
-                "subType":"D",
-                "value":"26",
-                "idValue":"26",
-                "rowSpan":1
-             },
-             {
-                "column":5,
-                "type":"R",
-                "subType":"D",
-                "value":"25",
-                "idValue":"25",
-                "rowSpan":1
-             },
-             {
-                "column":6,
-                "type":"R",
-                "subType":"D",
-                "value":" ciccio",
-                "idValue":" ciccio",
-                "rowSpan":1
-             },
-             {
-                "column":7,
-                "type":"R",
-                "subType":"D",
-                "value":" https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "idValue":" https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
-                "rowSpan":1
-             },
-             {
-                "column":8,
-                "type":"R",
-                "subType":"D",
-                "value":"true",
-                "idValue":"true",
-                "rowSpan":1
-             },
-             {
-                "column":9,
-                "type":"B",
-                "subType":"Be",
-                "value":"",
-                "idValue":""
-             }
-          ]
-       }
-    ]
- }
+   "id": "203601286909426",
+   "description": "",
+   "name": "Cri_Grid",
+   "writable": false,
+   "rows": [
+      {
+         "row": 0,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "H",
+               "subType": "He",
+               "value": "USER_ID",
+               "idValue": "USER_ID$JPqFP",
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "H",
+               "subType": "He",
+               "value": "USERNAME",
+               "idValue": "USERNAME$JPqFP",
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "H",
+               "subType": "He",
+               "value": "DISPLAY_NAME",
+               "idValue": "DISPLAY_NAME$JPqFP",
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "H",
+               "subType": "He",
+               "value": "BIRTH_DATE",
+               "idValue": "BIRTH_DATE$JPqFP",
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "H",
+               "subType": "He",
+               "value": "FRIEND_OF",
+               "idValue": "FRIEND_OF$JPqFP",
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "H",
+               "subType": "He",
+               "value": "SON_OF_ID",
+               "idValue": "SON_OF_ID$JPqFP",
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "H",
+               "subType": "He",
+               "value": "SON_OF_DS",
+               "idValue": "SON_OF_DS$JPqFP",
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "H",
+               "subType": "He",
+               "value": "COWORKER_OF",
+               "idValue": "COWORKER_OF$JPqFP",
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "H",
+               "subType": "He",
+               "value": "IS_IN_OFFICE",
+               "idValue": "IS_IN_OFFICE$JPqFP",
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 1,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "1",
+               "idValue": "1",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "https://www.google.com",
+               "idValue": "https://www.google.com",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "idValue": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2020-10-05 00:00:00.000",
+               "idValue": "2020-10-05 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "25",
+               "idValue": "25",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "36",
+               "idValue": "36",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": "2362338",
+               "idValue": "2362338",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": "aaa",
+               "idValue": "aaa",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "true",
+               "idValue": "true",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 2,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "3",
+               "idValue": "3",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "pluto",
+               "idValue": "pluto",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "pippO  a",
+               "idValue": "pippO  a",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2020-10-03 00:00:00.000",
+               "idValue": "2020-10-03 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "6",
+               "idValue": "6",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "36",
+               "idValue": "36",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": "2362338",
+               "idValue": "2362338",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "idValue": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "true",
+               "idValue": "true",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 3,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "4",
+               "idValue": "4",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "paperinosss",
+               "idValue": "paperinosss",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "paperinos",
+               "idValue": "paperinos",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2020-09-27 00:00:00.000",
+               "idValue": "2020-09-27 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "36",
+               "idValue": "36",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "1",
+               "idValue": "1",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "idValue": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "idValue": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "true",
+               "idValue": "true",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 4,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "6",
+               "idValue": "6",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "topolino",
+               "idValue": "topolino",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "topolino",
+               "idValue": "topolino",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2021-01-15 00:00:00.000",
+               "idValue": "2021-01-15 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "35",
+               "idValue": "35",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "35",
+               "idValue": "35",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": "aaa",
+               "idValue": "aaa",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "idValue": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "false",
+               "idValue": "false",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 5,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "18",
+               "idValue": "18",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "pippo2",
+               "idValue": "pippo2",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "qqq",
+               "idValue": "qqq",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2021-04-07 00:00:00.000",
+               "idValue": "2021-04-07 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "30",
+               "idValue": "30",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "26",
+               "idValue": "26",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": "5453",
+               "idValue": "5453",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": "topolino",
+               "idValue": "topolino",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "false",
+               "idValue": "false",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 6,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "25",
+               "idValue": "25",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "uciccio",
+               "idValue": "uciccio",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "ciccio",
+               "idValue": "ciccio",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2021-04-09 00:00:00.000",
+               "idValue": "2021-04-09 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "35",
+               "idValue": "35",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "35",
+               "idValue": "35",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": "aaa",
+               "idValue": "aaa",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": "topolino",
+               "idValue": "topolino",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "true",
+               "idValue": "true",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 7,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "26",
+               "idValue": "26",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "123456",
+               "idValue": "123456",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "5453",
+               "idValue": "5453",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2021-04-15 00:00:00.000",
+               "idValue": "2021-04-15 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "35",
+               "idValue": "35",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "29",
+               "idValue": "29",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": "xxx",
+               "idValue": "xxx",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": "topolino",
+               "idValue": "topolino",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "true",
+               "idValue": "true",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 8,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "29",
+               "idValue": "29",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "pippo3",
+               "idValue": "pippo3",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "xxx",
+               "idValue": "xxx",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2021-05-06 00:00:00.000",
+               "idValue": "2021-05-06 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "4",
+               "idValue": "4",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "12",
+               "idValue": "12",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": "",
+               "idValue": "",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": "ciccio",
+               "idValue": "ciccio",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "true",
+               "idValue": "true",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 9,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "30",
+               "idValue": "30",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "pippo4",
+               "idValue": "pippo4",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "pippo4",
+               "idValue": "pippo4",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2021-05-05 00:00:00.000",
+               "idValue": "2021-05-05 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "26",
+               "idValue": "26",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "26",
+               "idValue": "26",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": " 5453",
+               "idValue": " 5453",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": " 5453",
+               "idValue": " 5453",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "true",
+               "idValue": "true",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 10,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "32",
+               "idValue": "32",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "https://www.google.it",
+               "idValue": "https://www.google.it",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "idValue": "https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2020-10-04 00:00:00.000",
+               "idValue": "2020-10-04 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "8",
+               "idValue": "8",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "3",
+               "idValue": "3",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": " pippO  a",
+               "idValue": " pippO  a",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": " displayName user",
+               "idValue": " displayName user",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "true",
+               "idValue": "true",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 11,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "35",
+               "idValue": "35",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "aaa",
+               "idValue": "aaa",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "aaa",
+               "idValue": "aaa",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2021-10-12 00:00:00.000",
+               "idValue": "2021-10-12 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "26",
+               "idValue": "26",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "25",
+               "idValue": "25",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": " ciccio",
+               "idValue": " ciccio",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": " https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "idValue": " https://img.huffingtonpost.com/asset/5e7f124f220000e611b3adec.jpeg?ops=scalefit_630_noupscale",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "true",
+               "idValue": "true",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      },
+      {
+         "row": 12,
+         "visible": true,
+         "readOnly": true,
+         "drillThrough": [],
+         "cells": [
+            {
+               "column": 0,
+               "type": "R",
+               "subType": "D",
+               "value": "36",
+               "idValue": "36",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 1,
+               "type": "R",
+               "subType": "D",
+               "value": "32323",
+               "idValue": "32323",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 2,
+               "type": "R",
+               "subType": "D",
+               "value": "2362338",
+               "idValue": "2362338",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 3,
+               "type": "R",
+               "subType": "D",
+               "value": "2022-03-02 00:00:00.000",
+               "idValue": "2022-03-02 00:00:00.000",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 4,
+               "type": "R",
+               "subType": "D",
+               "value": "26",
+               "idValue": "26",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 5,
+               "type": "R",
+               "subType": "D",
+               "value": "26",
+               "idValue": "26",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 6,
+               "type": "R",
+               "subType": "D",
+               "value": " 5453",
+               "idValue": " 5453",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 7,
+               "type": "R",
+               "subType": "D",
+               "value": " aaa",
+               "idValue": " aaa",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            },
+            {
+               "column": 8,
+               "type": "R",
+               "subType": "D",
+               "value": "true",
+               "idValue": "true",
+               "rowSpan": 1,
+               "visible": true,
+               "readOnly": true
+            }
+         ]
+      }
+   ],
+   "drillThrough": [],
+   "properties": {
+      "reportColsDefinition": "[{\"coldef_USER_ID$JPqFP\":[{\"reportColName\":\"USER_ID$JPqFP\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"203601286909426\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"0\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_USERNAME$JPqFP\":[{\"reportColName\":\"USERNAME$JPqFP\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"203601286909426\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"1\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_DISPLAY_NAME$JPqFP\":[{\"reportColName\":\"DISPLAY_NAME$JPqFP\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"203601286909426\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"2\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_BIRTH_DATE$JPqFP\":[{\"reportColName\":\"BIRTH_DATE$JPqFP\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Date\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"203601286909426\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"3\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_FRIEND_OF$JPqFP\":[{\"reportColName\":\"FRIEND_OF$JPqFP\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"203601286909426\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"4\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_SON_OF_ID$JPqFP\":[{\"reportColName\":\"SON_OF_ID$JPqFP\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"203601286909426\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"5\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_SON_OF_DS$JPqFP\":[{\"reportColName\":\"SON_OF_DS$JPqFP\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"203601286909426\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"6\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_COWORKER_OF$JPqFP\":[{\"reportColName\":\"COWORKER_OF$JPqFP\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"203601286909426\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"7\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_IS_IN_OFFICE$JPqFP\":[{\"reportColName\":\"IS_IN_OFFICE$JPqFP\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"203601286909426\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"8\"},{\"reportColsAutoIncrement\":\"0\"}]}]",
+      "reportEditingGrants": "ENABLE:ALL;",
+      "data-deletion-message": "",
+      "task-enabled": "false",
+      "discussion-enabled": "false"
+   }
+}

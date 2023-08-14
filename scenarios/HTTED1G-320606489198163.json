@@ -1,0 +1,241 @@
+{
+    "id": "320606489198163",
+    "description": "",
+    "name": "Map_Issue_Actions REPORT FIGLIO",
+    "writable": false,
+    "rows": [
+        {
+            "row": 0,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "Issue Id",
+                    "idValue": "IS_Issue_Id",
+                    "visible": false,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "Action Id",
+                    "idValue": "AC_Action_Id",
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 2,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "Action",
+                    "idValue": "AC_Action_Sh_Ds",
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 3,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "Description",
+                    "idValue": "AC_Action_Ds",
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 4,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "Category",
+                    "idValue": "AC_Kpi_Category_Id",
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 5,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "Priority",
+                    "idValue": "AC_Action_Priority",
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 6,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "Status",
+                    "idValue": "AC_Action_Status",
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 7,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "Owner",
+                    "idValue": "Hi_A_Own_N_Lastn",
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 8,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "Due Date",
+                    "idValue": "AC_Resch_Due_Date_Dt",
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 9,
+                    "type": "C",
+                    "subType": "F",
+                    "value": "Metric Dummy",
+                    "idValue": "Metric_dummy_Sum",
+                    "colSpan": 1,
+                    "visible": false,
+                    "readOnly": true
+                },
+                {
+                    "column": 10,
+                    "type": "C",
+                    "subType": "F",
+                    "value": "Actions",
+                    "idValue": "Actions_Sum",
+                    "colSpan": 1,
+                    "visible": false,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 1,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "9900",
+                    "idValue": "9900",
+                    "rowSpan": 1,
+                    "visible": false,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "76400",
+                    "idValue": "76400",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 2,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "action test 2804 assoc issue",
+                    "idValue": "action test 2804 assoc issue",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 3,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "action test 2804 assoc issue",
+                    "idValue": "action test 2804 assoc issue",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 4,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Customer Satisfaction & Quality",
+                    "idValue": "800",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 5,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Minor",
+                    "idValue": "400",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 6,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Open",
+                    "idValue": "100",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 7,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Salvador Miriam",
+                    "idValue": "503603469453484",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 8,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021-05-31 00:00:00.000",
+                    "idValue": "2021-05-31 00:00:00.000",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 9,
+                    "type": "B",
+                    "subType": "B",
+                    "value": "1",
+                    "idValue": "1",
+                    "visible": false,
+                    "readOnly": true
+                },
+                {
+                    "column": 10,
+                    "type": "B",
+                    "subType": "B",
+                    "value": "1",
+                    "idValue": "1",
+                    "visible": false,
+                    "readOnly": true
+                }
+            ]
+        }
+    ],
+    "drillThrough": [],
+    "properties": {
+        "reportColsDefinition": "[{\"coldef_IS_Issue_Id\":[{\"reportColName\":\"IS_Issue_Id\"},{\"reportColVisibility\":\"0\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"0\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_AC_Action_Id\":[{\"reportColName\":\"AC_Action_Id\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"1\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_AC_Action_Sh_Ds\":[{\"reportColName\":\"AC_Action_Sh_Ds\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"2\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_AC_Action_Ds\":[{\"reportColName\":\"AC_Action_Ds\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"3\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_AC_Kpi_Category_Id\":[{\"reportColName\":\"AC_Kpi_Category_Id\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"4\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_AC_Action_Priority\":[{\"reportColName\":\"AC_Action_Priority\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"5\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_AC_Action_Status\":[{\"reportColName\":\"AC_Action_Status\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"6\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Hi_A_Own_N_Lastn\":[{\"reportColName\":\"Hi_A_Own_N_Lastn\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"7\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_AC_Resch_Due_Date_Dt\":[{\"reportColName\":\"AC_Resch_Due_Date_Dt\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Date\"},{\"datePattern\":\"dd MMM yyyy\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"8\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Metric_dummy_Sum\":[{\"reportColName\":\"Metric_dummy_Sum\"},{\"reportColVisibility\":\"0\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"9\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Actions_Sum\":[{\"reportColName\":\"Actions_Sum\"},{\"reportColVisibility\":\"0\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"0\"},{\"reportColInputType\":[{\"reportColsMainId\":\"320606489198163\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"10\"},{\"reportColsAutoIncrement\":\"0\"}]}]",
+        "reportEditingGrants": "ENABLE:ALL;",
+        "data-deletion-message": "",
+        "task-enabled": "false",
+        "discussion-enabled": "false"
+    }
+}

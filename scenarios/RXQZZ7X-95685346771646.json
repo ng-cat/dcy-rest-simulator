@@ -1,0 +1,1078 @@
+{
+    "id": "95685346771646",
+    "description": "",
+    "name": "filtered by year",
+    "writable": false,
+    "rows": [
+        {
+            "row": 0,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "YEAR",
+                    "idValue": "YEAR",
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "H",
+                    "subType": "He",
+                    "value": "MONTH",
+                    "idValue": "MONTH",
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 1,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "NA",
+                    "idValue": "0",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "NA",
+                    "idValue": "0",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 2,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 January",
+                    "idValue": "201901",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 3,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 2,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 February",
+                    "idValue": "201902",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 4,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 3,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 March",
+                    "idValue": "201903",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 5,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 4,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 April",
+                    "idValue": "201904",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 6,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 5,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 May",
+                    "idValue": "201905",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 7,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 6,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 June",
+                    "idValue": "201906",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 8,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 7,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 July",
+                    "idValue": "201907",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 9,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 8,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 August",
+                    "idValue": "201908",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 10,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 9,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 September",
+                    "idValue": "201909",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 11,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 10,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 October",
+                    "idValue": "201910",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 12,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 11,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 November",
+                    "idValue": "201911",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 13,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2019",
+                    "idValue": "2019",
+                    "rowSpan": 12,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2019 December",
+                    "idValue": "201912",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 14,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 January",
+                    "idValue": "202001",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 15,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 2,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 February",
+                    "idValue": "202002",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 16,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 3,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 March",
+                    "idValue": "202003",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 17,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 4,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 April",
+                    "idValue": "202004",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 18,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 5,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 May",
+                    "idValue": "202005",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 19,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 6,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 June",
+                    "idValue": "202006",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 20,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 7,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 July",
+                    "idValue": "202007",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 21,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 8,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 August",
+                    "idValue": "202008",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 22,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 9,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 September",
+                    "idValue": "202009",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 23,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 10,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 October",
+                    "idValue": "202010",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 24,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 11,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 November",
+                    "idValue": "202011",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 25,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2020",
+                    "idValue": "2020",
+                    "rowSpan": 12,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2020 December",
+                    "idValue": "202012",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 26,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 January",
+                    "idValue": "202101",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 27,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 2,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 February",
+                    "idValue": "202102",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 28,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 3,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 March",
+                    "idValue": "202103",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 29,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 4,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 April",
+                    "idValue": "202104",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 30,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 5,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 May",
+                    "idValue": "202105",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 31,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 6,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 June",
+                    "idValue": "202106",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 32,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 7,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 July",
+                    "idValue": "202107",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 33,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 8,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 August",
+                    "idValue": "202108",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 34,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 9,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 September",
+                    "idValue": "202109",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 35,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 10,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 October",
+                    "idValue": "202110",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 36,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 11,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 November",
+                    "idValue": "202111",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        },
+        {
+            "row": 37,
+            "visible": true,
+            "readOnly": true,
+            "drillThrough": [],
+            "cells": [
+                {
+                    "column": 0,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "Y 2021",
+                    "idValue": "2021",
+                    "rowSpan": 12,
+                    "visible": true,
+                    "readOnly": true
+                },
+                {
+                    "column": 1,
+                    "type": "R",
+                    "subType": "D",
+                    "value": "2021 December",
+                    "idValue": "202112",
+                    "rowSpan": 1,
+                    "visible": true,
+                    "readOnly": true
+                }
+            ]
+        }
+    ],
+    "drillThrough": [],
+    "properties": {
+        "reportColsDefinition": "[{\"coldef_YEAR\":[{\"reportColName\":\"YEAR\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"95685346771646\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"0\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_MONTH\":[{\"reportColName\":\"MONTH\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"95685346771646\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"1\"},{\"reportColsAutoIncrement\":\"0\"}]}]",
+        "reportEditingGrants": "ENABLE:ALL;",
+        "data-deletion-message": "",
+        "task-enabled": "false",
+        "discussion-enabled": "false"
+    }
+}

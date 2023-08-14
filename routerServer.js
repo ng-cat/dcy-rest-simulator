@@ -24,7 +24,27 @@ var fs = require('fs');
         }, 5000);
     });
 
+    routerServer.get('/api/v2/rest/application/:model/report/:report', (req,res)=>{
+        let model = req.params.model;
+        let report = req.params.report;
+        var mock = fs.readFileSync('./scenarios/' + model + '-' + report + '.json');
+        var data = JSON.parse(mock);
+        setTimeout(() => {
+            res.json(data);
+        }, 0);
+    });
+
     routerServer.get('/api/rest/application/:model/report/:report', (req,res)=>{
+        let model = req.params.model;
+        let report = req.params.report;
+        var mock = fs.readFileSync('./scenarios/' + model + '-' + report + '.json');
+        var data = JSON.parse(mock);
+        setTimeout(() => {
+            res.json(data);
+        }, 0);
+    });
+
+    routerServer.get('/api/rest/application/:model/page/:page/report/:report', (req,res)=>{
         let model = req.params.model;
         let report = req.params.report;
         var mock = fs.readFileSync('./scenarios/' + model + '-' + report + '.json');
