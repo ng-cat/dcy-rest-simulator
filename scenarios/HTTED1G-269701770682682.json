@@ -1,0 +1,649 @@
+{
+  "id": "269701770682682",
+  "description": "",
+  "name": "<#Global_KPI_Groups/>v3",
+  "writable": true,
+  "rows": [
+    {
+      "row": 0,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "H",
+          "subType": "He",
+          "value": "Kpi Category Id",
+          "idValue": "Kpi_Category_Id",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "H",
+          "subType": "He",
+          "value": "<#Kpi_Group_Id/>",
+          "idValue": "Kpi_Group_1",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "H",
+          "subType": "He",
+          "value": "Kpi Category Cd",
+          "idValue": "Kpi_Category_Cd",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 3,
+          "type": "H",
+          "subType": "He",
+          "value": "KPI Group Name",
+          "idValue": "Kpi_Group_Cd_1",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 4,
+          "type": "H",
+          "subType": "He",
+          "value": "Kpi Group Sort",
+          "idValue": "Kpi_Group_Sort",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 5,
+          "type": "H",
+          "subType": "He",
+          "value": "Modified",
+          "idValue": "Is_Modify_1",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 6,
+          "type": "H",
+          "subType": "He",
+          "value": "Active",
+          "idValue": "Is_Active_1",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 7,
+          "type": "H",
+          "subType": "He",
+          "value": "KPI Category",
+          "idValue": "Kpi_Category_1",
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "visible": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "101",
+          "idValue": "101",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "100005",
+          "idValue": "100005",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Safety & 5S",
+          "idValue": "Safety & 5S",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 3,
+          "type": "R",
+          "subType": "D",
+          "value": "Safety",
+          "idValue": "Safety",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 4,
+          "type": "R",
+          "subType": "D",
+          "value": "",
+          "idValue": "",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 5,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 6,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 7,
+          "type": "R",
+          "subType": "D",
+          "value": "101",
+          "idValue": "101",
+          "rowSpan": 1,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "visible": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "101",
+          "idValue": "101",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "100012",
+          "idValue": "100012",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Safety & 5S",
+          "idValue": "Safety & 5S",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 3,
+          "type": "R",
+          "subType": "D",
+          "value": "5S",
+          "idValue": "5S",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 4,
+          "type": "R",
+          "subType": "D",
+          "value": "",
+          "idValue": "",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 5,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 6,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 7,
+          "type": "R",
+          "subType": "D",
+          "value": "101",
+          "idValue": "101",
+          "rowSpan": 1,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "visible": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "102",
+          "idValue": "102",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "100013",
+          "idValue": "100013",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Customer Satisfaction & Quality",
+          "idValue": "Customer Satisfaction & Quality",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 3,
+          "type": "R",
+          "subType": "D",
+          "value": "Delivery",
+          "idValue": "Delivery",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 4,
+          "type": "R",
+          "subType": "D",
+          "value": "",
+          "idValue": "",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 5,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 6,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 7,
+          "type": "R",
+          "subType": "D",
+          "value": "102",
+          "idValue": "102",
+          "rowSpan": 1,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "visible": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "103",
+          "idValue": "103",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "100014",
+          "idValue": "100014",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Service Level",
+          "idValue": "Service Level",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 3,
+          "type": "R",
+          "subType": "D",
+          "value": "Planning",
+          "idValue": "Planning",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 4,
+          "type": "R",
+          "subType": "D",
+          "value": "",
+          "idValue": "",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 5,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 6,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 7,
+          "type": "R",
+          "subType": "D",
+          "value": "103",
+          "idValue": "103",
+          "rowSpan": 1,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "visible": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "104",
+          "idValue": "104",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "100010",
+          "idValue": "100010",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Efficiency",
+          "idValue": "Efficiency",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 3,
+          "type": "R",
+          "subType": "D",
+          "value": "Productivity",
+          "idValue": "Productivity",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 4,
+          "type": "R",
+          "subType": "D",
+          "value": "",
+          "idValue": "",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 5,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 6,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 7,
+          "type": "R",
+          "subType": "D",
+          "value": "104",
+          "idValue": "104",
+          "rowSpan": 1,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "visible": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "104",
+          "idValue": "104",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "100011",
+          "idValue": "100011",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Efficiency",
+          "idValue": "Efficiency",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 3,
+          "type": "R",
+          "subType": "D",
+          "value": "Quality",
+          "idValue": "Quality",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 4,
+          "type": "R",
+          "subType": "D",
+          "value": "",
+          "idValue": "",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 5,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 6,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 7,
+          "type": "R",
+          "subType": "D",
+          "value": "104",
+          "idValue": "104",
+          "rowSpan": 1,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "visible": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "105",
+          "idValue": "105",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "100015",
+          "idValue": "100015",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Smart-Operations",
+          "idValue": "Smart-Operations",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 3,
+          "type": "R",
+          "subType": "D",
+          "value": "Maturity",
+          "idValue": "Maturity",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 4,
+          "type": "R",
+          "subType": "D",
+          "value": "",
+          "idValue": "",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 5,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 6,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true
+        },
+        {
+          "column": 7,
+          "type": "R",
+          "subType": "D",
+          "value": "105",
+          "idValue": "105",
+          "rowSpan": 1,
+          "visible": true
+        }
+      ]
+    }
+  ],
+  "drillThrough": [],
+  "properties": {
+    "reportColsDefinition": "[{\"coldef_Kpi_Category_Id\":[{\"reportColName\":\"Kpi_Category_Id\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"269701770682682\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"0\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Kpi_Group_1\":[{\"reportColName\":\"Kpi_Group_1\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"269701770682682\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"1\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Kpi_Category_Cd\":[{\"reportColName\":\"Kpi_Category_Cd\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"269701770682682\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"2\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Kpi_Group_Cd_1\":[{\"reportColName\":\"Kpi_Group_Cd_1\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"269701770682682\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"3\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Kpi_Group_Sort\":[{\"reportColName\":\"Kpi_Group_Sort\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"269701770682682\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"4\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Is_Modify_1\":[{\"reportColName\":\"Is_Modify_1\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"269701770682682\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"5\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Is_Active_1\":[{\"reportColName\":\"Is_Active_1\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"269701770682682\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"6\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Kpi_Category_1\":[{\"reportColName\":\"Kpi_Category_1\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"269701770682682\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"7\"},{\"reportColsAutoIncrement\":\"0\"}]}]",
+    "reportEditingGrants": "ENABLE:ALL;",
+    "data-deletion-message": "",
+    "task-enabled": "false",
+    "discussion-enabled": "false"
+  }
+}
