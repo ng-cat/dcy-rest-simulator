@@ -1,0 +1,165 @@
+{
+  "id": "17723040818937",
+  "description": "",
+  "name": "rpt__ticket1132",
+  "writable": false,
+  "rows": [
+    {
+      "row": 0,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "H",
+          "subType": "He",
+          "value": "Id_ticket1132",
+          "idValue": "Id_ticket1132",
+          "visible": false,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "H",
+          "subType": "He",
+          "value": "Code_ticket1132",
+          "idValue": "Code_ticket1132",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "H",
+          "subType": "He",
+          "value": "Description_ticket1132",
+          "idValue": "Description_ticket1132",
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "1",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": false,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "cd-01",
+          "idValue": "cd-01",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "desc-01",
+          "idValue": "1",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "2",
+          "idValue": "2",
+          "rowSpan": 1,
+          "visible": false,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "cd-02",
+          "idValue": "cd-02",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "desc-02",
+          "idValue": "2",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "3",
+          "idValue": "3",
+          "rowSpan": 1,
+          "visible": false,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "cd-03",
+          "idValue": "cd-03",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "desc-03",
+          "idValue": "3",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    }
+  ],
+  "drillThrough": [],
+  "properties": {
+    "reportColsDefinition": "[{\"coldef_Id_ticket1132\":[{\"reportColName\":\"Id_ticket1132\"},{\"reportColVisibility\":\"0\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"0\"},{\"reportColsReadOnly\":\"0\"},{\"reportColInputType\":[{\"reportColsMainId\":\"17723040818937\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"0\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Code_ticket1132\":[{\"reportColName\":\"Code_ticket1132\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"0\"},{\"reportColInputType\":[{\"reportColsMainId\":\"17723040818937\"},{\"reportColInputDT\":\"Text\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"1\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Description_ticket1132\":[{\"reportColName\":\"Description_ticket1132\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"0\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"0\"},{\"reportColInputType\":[{\"reportColsMainId\":\"17723040818937\"},{\"reportColInputDT\":\"Text\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"2\"},{\"reportColsAutoIncrement\":\"0\"}]}]",
+    "reportEditingGrants": "ENABLE:ALL;",
+    "data-deletion-message": "",
+    "task-enabled": "false",
+    "discussion-enabled": "false"
+  }
+}

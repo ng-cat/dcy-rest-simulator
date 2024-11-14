@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "inError": false,
+  "headers": {
+    "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+    "Access-Control-Allow-Origin": "*",
+    "ETag": "W/\"108-xty/zJcxzOf8kXxqoQJ54lDN5Pk\"",
+    "X-Content-Type-Options": "nosniff",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding",
+    "Content-Length": "264",
+    "Date": "Wed, 19 Jun 2024 10:45:35 GMT",
+    "Content-Type": "application/json; charset=utf-8"
+  },
+  "body": "{\"title\":\"operating Chillers 13\",\"timestamp\":\"2023-09-20T23:00:00Z\",\"actual\":null,\"recommended\":{\"name\":\"optimalSequence\",\"unitOfMeasure\":\"\",\"unitOfMeasureAbbreviation\":\"\",\"value\":\"9CH01,9CH02, 9CH03\"},\"popupConfiguration\":{\"title\":\"OperatingSequence chiller 13\"}}"
+}

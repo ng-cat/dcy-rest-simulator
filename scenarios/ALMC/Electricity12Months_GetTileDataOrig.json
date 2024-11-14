@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "inError": false,
+  "headers": {
+    "date": "Wed, 15 May 2024 10:10:57 GMT",
+    "server": "envoy",
+    "x-envoy-upstream-service-time": "45",
+    "transfer-encoding": "chunked",
+    "content-type": "application/json; charset=utf-8"
+  },
+  "body": "{\"title\":\"Chilled Water Plant Monthly Electricity\",\"startTime\":\"2023-06-01T00:00:00Z\",\"endTime\":\"2024-05-01T00:00:00Z\",\"referenceTimeSeries\":{\"name\":\"Consumed Electricity Reference\",\"description\":\"\",\"unitOfMeasure\":\"megawatt hour\",\"unitOfMeasureAbbreviation\":\"MWh\",\"yAxisIndex\":0,\"dataPoints\":[{\"timestamp\":\"2023-06-01T00:00:00Z\",\"value\":11265},{\"timestamp\":\"2023-07-01T00:00:00Z\",\"value\":11733},{\"timestamp\":\"2023-08-01T00:00:00Z\",\"value\":11821},{\"timestamp\":\"2023-09-01T00:00:00Z\",\"value\":10862},{\"timestamp\":\"2023-10-01T00:00:00Z\",\"value\":9926},{\"timestamp\":\"2023-11-01T00:00:00Z\",\"value\":8542},{\"timestamp\":\"2023-12-01T00:00:00Z\",\"value\":8356},{\"timestamp\":\"2024-01-01T00:00:00Z\",\"value\":7903},{\"timestamp\":\"2024-02-01T00:00:00Z\",\"value\":7619},{\"timestamp\":\"2024-03-01T00:00:00Z\",\"value\":8483},{\"timestamp\":\"2024-04-01T00:00:00Z\",\"value\":9776},{\"timestamp\":\"2024-05-01T00:00:00Z\",\"value\":4720}]},\"actualTimeSeries\":{\"name\":\"Consumed Electricity\",\"description\":\"\",\"unitOfMeasure\":\"megawatt hour\",\"unitOfMeasureAbbreviation\":\"MWh\",\"yAxisIndex\":0,\"dataPoints\":[{\"timestamp\":\"2023-06-01T00:00:00Z\",\"value\":11298},{\"timestamp\":\"2023-07-01T00:00:00Z\",\"value\":11631},{\"timestamp\":\"2023-08-01T00:00:00Z\",\"value\":11860},{\"timestamp\":\"2023-09-01T00:00:00Z\",\"value\":11113},{\"timestamp\":\"2023-10-01T00:00:00Z\",\"value\":10357},{\"timestamp\":\"2023-11-01T00:00:00Z\",\"value\":8676},{\"timestamp\":\"2023-12-01T00:00:00Z\",\"value\":8506},{\"timestamp\":\"2024-01-01T00:00:00Z\",\"value\":7762},{\"timestamp\":\"2024-02-01T00:00:00Z\",\"value\":7849},{\"timestamp\":\"2024-03-01T00:00:00Z\",\"value\":8906},{\"timestamp\":\"2024-04-01T00:00:00Z\",\"value\":10623},{\"timestamp\":\"2024-05-01T00:00:00Z\",\"value\":5043}]},\"yAxes\":[{\"decimals\":0}],\"popupConfiguration\":{\"title\":\"FAB16 A2 - Chilled Water Plant Monthly Electricity\",\"minStartTime\":\"2020-01-01T00:00:00\",\"maxDurationMonths\":49,\"initialStartTime\":\"2023-06-01T00:00:00Z\",\"initialEndTime\":\"2024-05-01T00:00:00Z\"}}"
+}

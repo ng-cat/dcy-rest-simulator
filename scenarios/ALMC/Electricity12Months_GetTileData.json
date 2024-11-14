@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "inError": false,
+  "headers": {
+    "Transfer-Encoding": "chunked",
+    "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+    "Access-Control-Allow-Origin": "*",
+    "ETag": "W/\"710-4SHGa3K51waCr+ahzRxfizg3UDA\"",
+    "X-Content-Type-Options": "nosniff",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding",
+    "Date": "Wed, 30 Oct 2024 08:11:19 GMT",
+    "Content-Type": "application/json; charset=utf-8"
+  },
+  "body": "{\"title\":\"FAB-blue-Tile-Actual\",\"startTime\":\"2023-01-01T00:00:00Z\",\"endTime\":\"2023-12-01T00:00:00Z\",\"referenceTimeSeries\":{\"name\":\"reference 2\",\"description\":\"string\",\"unitOfMeasure\":\"kilowatt/ora\",\"unitOfMeasureAbbreviation\":\"KW\",\"yAxisIndex\":0,\"dataPoints\":[{\"timestamp\":\"2023-01-01T00:00:00Z\",\"value\":214},{\"timestamp\":\"2023-02-01T00:00:00Z\",\"value\":202},{\"timestamp\":\"2023-03-01T00:00:00Z\",\"value\":234},{\"timestamp\":\"2023-04-01T00:00:00Z\",\"value\":203},{\"timestamp\":\"2023-05-01T00:00:00Z\",\"value\":214},{\"timestamp\":\"2023-06-01T00:00:00Z\",\"value\":223},{\"timestamp\":\"2023-07-01T00:00:00Z\",\"value\":230},{\"timestamp\":\"2023-08-01T00:00:00Z\",\"value\":238},{\"timestamp\":\"2023-09-01T00:00:00Z\",\"value\":240},{\"timestamp\":\"2023-10-01T00:00:00Z\",\"value\":239},{\"timestamp\":\"2023-11-01T00:00:00Z\",\"value\":222},{\"timestamp\":\"2023-12-01T00:00:00Z\",\"value\":215}]},\"actualTimeSeries\":{\"name\":\"Actual 2\",\"description\":\"string\",\"unitOfMeasure\":\"kilowatt/ora\",\"unitOfMeasureAbbreviation\":\"KW\",\"yAxisIndex\":0,\"dataPoints\":[{\"timestamp\":\"2023-01-01T00:00:00Z\",\"value\":233},{\"timestamp\":\"2023-02-01T00:00:00Z\",\"value\":202},{\"timestamp\":\"2023-03-01T00:00:00Z\",\"value\":203},{\"timestamp\":\"2023-04-01T00:00:00Z\",\"value\":237},{\"timestamp\":\"2023-05-01T00:00:00Z\",\"value\":200},{\"timestamp\":\"2023-06-01T00:00:00Z\",\"value\":215},{\"timestamp\":\"2023-07-01T00:00:00Z\",\"value\":220},{\"timestamp\":\"2023-08-01T00:00:00Z\",\"value\":227},{\"timestamp\":\"2023-09-01T00:00:00Z\",\"value\":221},{\"timestamp\":\"2023-10-01T00:00:00Z\",\"value\":212},{\"timestamp\":\"2023-11-01T00:00:00Z\",\"value\":215},{\"timestamp\":\"2023-12-01T00:00:00Z\",\"value\":208}]},\"yAxes\":[{\"decimals\":1}],\"popupConfiguration\":{\"title\":\"fab blue\",\"minStartTime\":\"2021-01-01T00:00:00.000Z\",\"maxDurationMonths\":36,\"initialStartTime\":\"2022-01-01T00:00:00Z\",\"initialEndTime\":\"2023-08-01T00:00:00Z\"}}"
+}
