@@ -1,0 +1,1638 @@
+{
+  "id": "353606216138799",
+  "description": "",
+  "name": "User Plant for Dropdown Project",
+  "writable": false,
+  "rows": [
+    {
+      "row": 0,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "H",
+          "subType": "He",
+          "value": "<#User_Id/>",
+          "idValue": "HI_User_Id",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "H",
+          "subType": "He",
+          "value": "描述 姓 <#Sesa Id/>",
+          "idValue": "Hi_Name_Lastname_Sesa_Id",
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "218733387395908",
+          "idValue": "218733387395908",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "5sm_Auditor 5sm_Auditor",
+          "idValue": "218733387395908",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "490733387445711",
+          "idValue": "490733387445711",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "5sm_Owner 5sm_Owner",
+          "idValue": "490733387445711",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "730733387501861",
+          "idValue": "730733387501861",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "5sm_User_1 5sm_User_1",
+          "idValue": "730733387501861",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "949733387546791",
+          "idValue": "949733387546791",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "5sm_User_2 5sm_User_2",
+          "idValue": "949733387546791",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "337706887838457",
+          "idValue": "337706887838457",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Absol3 Sesi",
+          "idValue": "337706887838457",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "730719384624366",
+          "idValue": "730719384624366",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Action_Owner Action_Owner",
+          "idValue": "730719384624366",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "42719384711135",
+          "idValue": "42719384711135",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Action_Raiser Action_Raiser",
+          "idValue": "42719384711135",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "596603469469333",
+          "idValue": "596603469469333",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Ascenzi Michela",
+          "idValue": "596603469469333",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "907620403703197",
+          "idValue": "907620403703197",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Ascenzi (Sesa593141) Michela",
+          "idValue": "907620403703197",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "673604570585461",
+          "idValue": "673604570585461",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Bosello Massimo",
+          "idValue": "673604570585461",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "440713535524613",
+          "idValue": "440713535524613",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Coach User",
+          "idValue": "440713535524613",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "912606859908256",
+          "idValue": "912606859908256",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Decisyon Test",
+          "idValue": "912606859908256",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "948611736174990",
+          "idValue": "948611736174990",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Difrancesco Silvia",
+          "idValue": "948611736174990",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "731634806135744",
+          "idValue": "731634806135744",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Faggion Alberto",
+          "idValue": "731634806135744",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "164714374102486",
+          "idValue": "164714374102486",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Inc1498608 Inc1498608",
+          "idValue": "164714374102486",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "202713535472666",
+          "idValue": "202713535472666",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Leader User",
+          "idValue": "202713535472666",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "51732870316726",
+          "idValue": "51732870316726",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Mascenzi_5s_Auditor Mascenzi_5s_Auditor",
+          "idValue": "51732870316726",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "433673435882014",
+          "idValue": "433673435882014",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Mascenzi_5s Mascenzi_5s",
+          "idValue": "433673435882014",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "265732870359561",
+          "idValue": "265732870359561",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Mascenzi_5s_Owner Mascenzi_5s_Owner",
+          "idValue": "265732870359561",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "481693218211500",
+          "idValue": "481693218211500",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Mascenzi_5s_Plant_Admin Mascenzi_5s_Plant_Admin",
+          "idValue": "481693218211500",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "912622812188289",
+          "idValue": "912622812188289",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Mascenzi_Admin Mascenzi_Admin",
+          "idValue": "912622812188289",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "691625473000442",
+          "idValue": "691625473000442",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Mascenzi_All_Tenants Mascenzi_All_Tenants",
+          "idValue": "691625473000442",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "506626688787080",
+          "idValue": "506626688787080",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Mascenzi_Key_User Mascenzi_Key_User",
+          "idValue": "506626688787080",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "249631631315409",
+          "idValue": "249631631315409",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Mascenzi_Manager Mascenzi_Manager",
+          "idValue": "249631631315409",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "718622205366868",
+          "idValue": "718622205366868",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Mascenzi Mascenzi",
+          "idValue": "718622205366868",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "529603783883435",
+          "idValue": "529603783883435",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Pagliaroli Luigi",
+          "idValue": "529603783883435",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "321611830954510",
+          "idValue": "321611830954510",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Panzarini Davide",
+          "idValue": "321611830954510",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 28,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "647612361481726",
+          "idValue": "647612361481726",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Panzarini Davide (Cell Leader)",
+          "idValue": "647612361481726",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 29,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "998610703988721",
+          "idValue": "998610703988721",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Panzarini Davide (Guest)",
+          "idValue": "998610703988721",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "295612259040812",
+          "idValue": "295612259040812",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Panzarini Davide (Manager)",
+          "idValue": "295612259040812",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "859612987864046",
+          "idValue": "859612987864046",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Panzarini Davide (Ndvc)",
+          "idValue": "859612987864046",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 32,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "99612283409146",
+          "idValue": "99612283409146",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Panzarini Davide (Sector Leader)",
+          "idValue": "99612283409146",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 33,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "71603359998754",
+          "idValue": "71603359998754",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Pellizzaro Fabio",
+          "idValue": "71603359998754",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 34,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "952632409044497",
+          "idValue": "952632409044497",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rabbiati Alessandro",
+          "idValue": "952632409044497",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 35,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "526603450322990",
+          "idValue": "526603450322990",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rapone Stefano",
+          "idValue": "526603450322990",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 36,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "442619534687967",
+          "idValue": "442619534687967",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rapone Stefano_1515",
+          "idValue": "442619534687967",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 37,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "652617115584961",
+          "idValue": "652617115584961",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rapone Stefano_1616",
+          "idValue": "652617115584961",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 38,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "108625063729897",
+          "idValue": "108625063729897",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rapone Stefano_6060",
+          "idValue": "108625063729897",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 39,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "143625063737752",
+          "idValue": "143625063737752",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rapone Stefano_6062",
+          "idValue": "143625063737752",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 40,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "538623752606901",
+          "idValue": "538623752606901",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rossi2 Mario",
+          "idValue": "538623752606901",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 41,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "85620838859550",
+          "idValue": "85620838859550",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rossi Mario",
+          "idValue": "85620838859550",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 42,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "344620851264446",
+          "idValue": "344620851264446",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rossi Mario",
+          "idValue": "344620851264446",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 43,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "577605097773414",
+          "idValue": "577605097773414",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rossi Mario",
+          "idValue": "577605097773414",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 44,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "309604917583238",
+          "idValue": "309604917583238",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rubino Leandra",
+          "idValue": "309604917583238",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 45,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "999604925039015",
+          "idValue": "999604925039015",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rufini (Dvc) Giampiero",
+          "idValue": "999604925039015",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 46,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "934603372118960",
+          "idValue": "934603372118960",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Rufini (Mgr) Giampiero",
+          "idValue": "934603372118960",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 47,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "266613131554849",
+          "idValue": "266613131554849",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Salvador Miriam 2",
+          "idValue": "266613131554849",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 48,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "716604940933644",
+          "idValue": "716604940933644",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Sdk Sdk",
+          "idValue": "716604940933644",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 49,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "386746001509315",
+          "idValue": "386746001509315",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Sesa386875 Sesa386875",
+          "idValue": "386746001509315",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 50,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "597745489087028",
+          "idValue": "597745489087028",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Sesa470572 Sesa470572",
+          "idValue": "597745489087028",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 51,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "346680162011015",
+          "idValue": "346680162011015",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Sesi_User Sesi_User",
+          "idValue": "346680162011015",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 52,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "274733825724931",
+          "idValue": "274733825724931",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Sim4_Owner Sim4_Owner",
+          "idValue": "274733825724931",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 53,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "476733825760185",
+          "idValue": "476733825760185",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Sim4_Raiser Sim4_Raiser",
+          "idValue": "476733825760185",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 54,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "399706701439207",
+          "idValue": "399706701439207",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Submitter Submitter",
+          "idValue": "399706701439207",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 55,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "938633966337916",
+          "idValue": "938633966337916",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Test_Api Test_Api_Timezone",
+          "idValue": "938633966337916",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 56,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "335605096343894",
+          "idValue": "335605096343894",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Utente 1 Utente 1",
+          "idValue": "335605096343894",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 57,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "518603788109579",
+          "idValue": "518603788109579",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Vallone Luca",
+          "idValue": "518603788109579",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    }
+  ],
+  "drillThrough": [],
+  "properties": {
+    "reportColsDefinition": "[{\"coldef_HI_User_Id\":[{\"reportColName\":\"HI_User_Id\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"353606216138799\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"0\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_Hi_Name_Lastname_Sesa_Id\":[{\"reportColName\":\"Hi_Name_Lastname_Sesa_Id\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"353606216138799\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"1\"},{\"reportColsAutoIncrement\":\"0\"}]}]",
+    "reportEditingGrants": "ENABLE:ALL;",
+    "data-deletion-message": "",
+    "task-enabled": "false",
+    "discussion-enabled": "false"
+  }
+}

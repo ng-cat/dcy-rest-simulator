@@ -1,0 +1,108 @@
+{
+  "id": "729607688359361",
+  "description": "",
+  "name": "PLANT CURRENCY ",
+  "writable": false,
+  "rows": [
+    {
+      "row": 0,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "H",
+          "subType": "He",
+          "value": "CURRENCY_ID",
+          "idValue": "CURRENCY_ID$kaHiM",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "H",
+          "subType": "He",
+          "value": "CURRENCY_SYMBOL",
+          "idValue": "CURRENCY_SYMBOL$kaHiM",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "H",
+          "subType": "He",
+          "value": "CURRENCY_CD",
+          "idValue": "CURRENCY_CD$kaHiM",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 3,
+          "type": "H",
+          "subType": "He",
+          "value": "PLANT",
+          "idValue": "PLANT$kaHiM",
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "600",
+          "idValue": "600",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "€",
+          "idValue": "€",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "EUR",
+          "idValue": "EUR",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 3,
+          "type": "R",
+          "subType": "D",
+          "value": "2800",
+          "idValue": "2800",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    }
+  ],
+  "drillThrough": [],
+  "properties": {
+    "reportColsDefinition": "[{\"coldef_CURRENCY_ID$kaHiM\":[{\"reportColName\":\"CURRENCY_ID$kaHiM\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"729607688359361\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"0\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_CURRENCY_SYMBOL$kaHiM\":[{\"reportColName\":\"CURRENCY_SYMBOL$kaHiM\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"729607688359361\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"1\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_CURRENCY_CD$kaHiM\":[{\"reportColName\":\"CURRENCY_CD$kaHiM\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"729607688359361\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"2\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_PLANT$kaHiM\":[{\"reportColName\":\"PLANT$kaHiM\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"729607688359361\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"3\"},{\"reportColsAutoIncrement\":\"0\"}]}]",
+    "reportEditingGrants": "ENABLE:ALL;",
+    "data-deletion-message": "",
+    "task-enabled": "false",
+    "discussion-enabled": "false"
+  }
+}

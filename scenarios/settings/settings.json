@@ -1,0 +1,109 @@
+{
+  "uid": 346680162011015,
+  "oid": "383604912174647",
+  "pageId": "361604912174647",
+  "owner": "HTTED1G",
+  "perspectives": {
+    "1": {
+      "versions": {
+        "1.0": {
+          "sort": {
+            "columns": [
+              {
+                "field": "col2",
+                "name": "ED_Eidea_Ds",
+                "direction": "Ascending",
+                "isFromGroup": false
+              }
+            ],
+            "allowUnsort": true
+          },
+          "visible": [
+            { "field": "col0", "name": "ED_eIdea_Id", "visible": false },
+            { "field": "col2", "name": "ED_Eidea_Ds", "visible": true },
+            { "field": "col3", "name": "ED_Delayed_Flag", "visible": false },
+            { "field": "col4", "name": "ED_Problem_Ds", "visible": false },
+            { "field": "col1", "name": "ED_Eidea_Cd", "visible": false },
+            { "field": "col5", "name": "ED_Status_Id_Ds", "visible": false },
+            { "field": "col6", "name": "HI_User_Id", "visible": false },
+            { "field": "col7", "name": "Hi_Name_Lastname", "visible": false },
+            { "field": "col8", "name": "HI_Username", "visible": false },
+            {
+              "field": "col9",
+              "name": "ED_Submitted_Day_Id",
+              "visible": false
+            },
+            { "field": "col10", "name": "HI_Attr_2", "visible": false },
+            { "field": "col11", "name": "HI_Department_Cd", "visible": false },
+            {
+              "field": "col12",
+              "name": "HI_PA_Prod_Area_Ds",
+              "visible": false
+            },
+            { "field": "col13", "name": "Line_Cd", "visible": false },
+            { "field": "col14", "name": "ED_Category_Cd", "visible": false },
+            {
+              "field": "col15",
+              "name": "ED_Saving_Estimated",
+              "visible": false
+            },
+            { "field": "col16", "name": "ED_Saving_Actual", "visible": false },
+            { "field": "col17", "name": "Hi_Man_N_Lastn", "visible": true },
+            {
+              "field": "col18",
+              "name": "Hi_Manager_Username",
+              "visible": false
+            },
+            {
+              "field": "col19",
+              "name": "ED_First_Fdbk_Act_Day",
+              "visible": true
+            },
+            {
+              "field": "col20",
+              "name": "ED_First_Fdbk_Trg_Day",
+              "visible": false
+            },
+            { "field": "col21", "name": "Hi_A_Own_N_Lastn", "visible": false },
+            {
+              "field": "col22",
+              "name": "HI_Action_Owner_Username",
+              "visible": false
+            },
+            {
+              "field": "col23",
+              "name": "ED_Final_Fdbk_Act_Day",
+              "visible": false
+            },
+            {
+              "field": "col24",
+              "name": "ED_Final_Fdbk_Trg_Day",
+              "visible": false
+            },
+            {
+              "field": "col25",
+              "name": "ED_Implementation_Day",
+              "visible": false
+            },
+            { "field": "col26", "name": "ED_Implem_Trg_Day", "visible": false },
+            {
+              "field": "col27",
+              "name": "ED_Close_Actual_Day_Id",
+              "visible": false
+            },
+            { "field": "col28", "name": "HI_Plant_Id", "visible": false },
+            { "field": "col29", "name": "ED_I_See_I_Do", "visible": false },
+            { "field": "col30", "name": "ED_Is_Best_Idea", "visible": false },
+            { "field": "col31", "name": "ED_Drill_Through", "visible": true },
+            { "field": "col32", "name": "ED_Sudmitted_Dt", "visible": false },
+            { "field": "col33", "name": "ED_Status_Cd", "visible": false },
+            { "field": "col34", "name": "ED_Eidea_Seq", "visible": false },
+            { "field": "col35", "name": "eIdeas_dummy_Sum", "visible": false }
+          ]
+        }
+      },
+      "id": "1",
+      "name": "view"
+    }
+  }
+}

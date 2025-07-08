@@ -1,0 +1,20 @@
+[
+  {
+    "idVal": "Big_plant_id",
+    "viewVal": "Big Plant",
+    "type": "D",
+    "dataType": "1"
+  },
+  {
+    "idVal": "Big_Machine_Id",
+    "viewVal": "Big Machine",
+    "type": "D",
+    "dataType": "0"
+  },
+  {
+    "idVal": "Big_line_id",
+    "viewVal": "Big Line",
+    "type": "D",
+    "dataType": "1"
+  }
+]

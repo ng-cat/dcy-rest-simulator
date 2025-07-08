@@ -1,0 +1,203 @@
+{
+  "id": "777600179589912",
+  "description": "",
+  "name": "<#PR_Status/>",
+  "writable": false,
+  "rows": [
+    {
+      "row": 0,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "H",
+          "subType": "He",
+          "value": "状态",
+          "idValue": "PR_Status_Id",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "H",
+          "subType": "He",
+          "value": "状态",
+          "idValue": "PR_Status_Cd",
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "H",
+          "subType": "He",
+          "value": "<#Status_Ds/>",
+          "idValue": "PR_Status_Ds",
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "100",
+          "idValue": "100",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Open",
+          "idValue": "Open",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Open",
+          "idValue": "Open",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "200",
+          "idValue": "200",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Closed",
+          "idValue": "Closed",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Closed",
+          "idValue": "Closed",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "300",
+          "idValue": "300",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Open Delayed",
+          "idValue": "Open Delayed",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Open Delayed",
+          "idValue": "Open Delayed",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "visible": true,
+      "readOnly": true,
+      "drillThrough": [],
+      "cells": [
+        {
+          "column": 0,
+          "type": "R",
+          "subType": "D",
+          "value": "400",
+          "idValue": "400",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 1,
+          "type": "R",
+          "subType": "D",
+          "value": "Closed Delayed",
+          "idValue": "Closed Delayed",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        },
+        {
+          "column": 2,
+          "type": "R",
+          "subType": "D",
+          "value": "Closed Delayed",
+          "idValue": "Closed Delayed",
+          "rowSpan": 1,
+          "visible": true,
+          "readOnly": true
+        }
+      ]
+    }
+  ],
+  "drillThrough": [],
+  "properties": {
+    "reportColsDefinition": "[{\"coldef_PR_Status_Id\":[{\"reportColName\":\"PR_Status_Id\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"Number\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"777600179589912\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"0\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_PR_Status_Cd\":[{\"reportColName\":\"PR_Status_Cd\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"777600179589912\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"1\"},{\"reportColsAutoIncrement\":\"0\"}]},{\"coldef_PR_Status_Ds\":[{\"reportColName\":\"PR_Status_Ds\"},{\"reportColVisibility\":\"1\"},{\"reportColsType\":\"String/Text\"},{\"datePattern\":\"yyyy-MM-dd HH:mm:ss.SSS\"},{\"reportColsKey\":\"1\"},{\"reportColsMandatory\":\"1\"},{\"reportColsReadOnly\":\"1\"},{\"reportColInputType\":[{\"reportColsMainId\":\"777600179589912\"},{\"reportColInputDT\":\"Number\"},{\"reportColInputListType\":\"From report\"},{\"reportAssociated\":\"-1\"},{\"reportColInputListId\":\"\"},{\"reportColInputListDs\":\"\"},{\"reportColInputListBinding\":[]},{\"reportColDependsOn\":\"\"},{\"reportColInputListValues\":\"\"},{\"reportColTextMxL\":\"0\"},{\"reportColTextMnL\":\"0\"},{\"reportColTextRgx\":\"\"},{\"reportColNumMin\":\"\"},{\"reportColNumMax\":\"\"}]},{\"reportColInputListDefault\":[\"\"]},{\"reportColsIndex\":\"2\"},{\"reportColsAutoIncrement\":\"0\"}]}]",
+    "reportEditingGrants": "ENABLE:ALL;",
+    "data-deletion-message": "",
+    "task-enabled": "false",
+    "discussion-enabled": "false"
+  }
+}
